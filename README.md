@@ -12,6 +12,7 @@ const omarb77={
 You can find me 🌍:
 
 <a href="https://twitter.com/omarbarron7700" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="omarbarron7700" height="30" width="40" /></a>
+
 <a href="https://instagram.com/omarbarron.7700" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="omarbarron.7700" height="30" width="40" /></a>
 </p>
 
