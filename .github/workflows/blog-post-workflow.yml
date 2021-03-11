@@ -1,8 +1,8 @@
-name: Latest reddit post workflow
+name: Latest blog post workflow
 on:
-  schedule: #Run workflow automatically
-    -cron: '0 * * * *' #Runs every hour, on the hour
-    workflow_dispatch: #Run Workflow manually
+  schedule: # Run workflow automatically
+    -cron: '0 * * * *' # Runs every hour, on the hour
+    workflow_dispatch: # Run Workflow manually
 jobs:
   update-readme-with-blog:
     name: Update this repo's README with latest blog posts
