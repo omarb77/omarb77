@@ -53,6 +53,8 @@ const omarb77={
 
 <!--START_SECTION:activity-->
 
+<!--END_SECTION:activity-->
+
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
