@@ -14,7 +14,7 @@ const omarb77={
 
 
 
-###You can find me 🌍:
+### You can find me 🌍:
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/omarbarron7700?color=1DA1F2&label=%40omarbarron7700&logo=Twitter&style=flat-square)](https://twitter.com/omarbarron7700?ref_src=twsrc%5Etfw)
 
@@ -46,7 +46,12 @@ const omarb77={
 <br>
 <br />
 
+<!--START_SECTION:activity-->
+
+
+
 [![omarb77's GitHub stats](https://github-readme-stats.vercel.app/api?username=omarb77&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
